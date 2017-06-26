@@ -2,7 +2,7 @@ package goreport
 
 import (
 	"fmt"
-	"github.com/signintech/gopdf"
+	"github.com/amiller-github/gopdf"
 	"io/ioutil"
 	"strconv"
 	"strings"
